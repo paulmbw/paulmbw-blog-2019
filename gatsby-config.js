@@ -8,7 +8,7 @@ module.exports = {
     subtitle:
       'Software Engineer. Passion for travel and food. North London is Red. Navigating through this thing called life.',
     copyright: '© All rights reserved.',
-    disqusShortname: '',
+    disqusShortname: 'http://paulmbw.me.uk',
     menu: [
     ],
     author: {
