@@ -8,7 +8,7 @@ category: "Learnings"
 tags:
   - "learning"
   - "graphql"
-description: "In this post I embark on a journey through understanding and demystifying GraphQL, and I discuss whether this may be a good replacement for traditional RESTFul design. Read and comment!"
+description: "In this post I embark on a journey through understanding and demystifying GraphQL, and I discuss whether this may be a good replacement for traditional RESTFul API's. Enjoy!"
 ---
 In order to understand what GraphQL is, we need to consider the issues presented with previous technologies (in this case RESTful API's) and what this new language provides as a solution.
 
