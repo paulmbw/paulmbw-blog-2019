@@ -8,7 +8,7 @@ path: "/about"
 
 Hi there!
 
-Welcome to my blog. My name is Paul, I am 23 years old living and working in London. I'm currenty a software engineer for [Medidata](https://www.mdsol.com/en) (btw, we are hiring! Contact me via my email on the far left 😁). For more information about what I do exactly, have a look at my [CV](./paulwawerucv.pdf).
+Welcome to my blog. My name is Paul, I am 23 years old living and working in London. I'm currenty a software engineer for [Medidata](https://www.mdsol.com/en) (btw, we are hiring! Contact me via my [email](paul.waweru58@gmail.com)). For more information about what I do exactly, have a look at my [CV](./paulwawerucv.pdf).
 
 I hope to use this blog as a platform for sharing my thoughts, opinions and experiences on both tech related stuff and other topics in general.
 
