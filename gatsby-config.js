@@ -6,7 +6,7 @@ module.exports = {
     url: 'https://lumen.netlify.com',
     title: 'Paul Waweru',
     subtitle:
-      'Software Engineer. Passion for travel and food. North London is Red. Navigating through this thing called life.',
+      'Software Engineer. Passion for travel, food and reading. North London is Red. Navigating through this thing called life.',
     copyright: '© All rights reserved.',
     disqusShortname: 'http://paulmbw.me.uk',
     menu: [
