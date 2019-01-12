@@ -3,6 +3,7 @@ import get from 'lodash/get'
 import { Link } from 'gatsby'
 import Links from '../Links'
 import profilePic from '../../pages/photo.jpg'
+import Menu from '../Menu'
 import './style.scss'
 
 class Sidebar extends React.Component {
@@ -12,6 +13,7 @@ class Sidebar extends React.Component {
       author,
       subtitle,
       copyright,
+      menu,
     } = this.props.data.site.siteMetadata
     const isHomePage = get(location, 'pathname', '/') === '/'
 
@@ -34,12 +36,12 @@ class Sidebar extends React.Component {
             </Link>
           </h1>
         ) : (
-          <h2 className="sidebar__author-title">
-            <Link className="sidebar__author-title-link" to="/">
-              {author.name}
-            </Link>
-          </h2>
-        )}
+            <h2 className="sidebar__author-title">
+              <Link className="sidebar__author-title-link" to="/">
+                {author.name}
+              </Link>
+            </h2>
+          )}
         <p className="sidebar__author-subtitle">{subtitle}</p>
       </div>
     )
@@ -50,6 +52,7 @@ class Sidebar extends React.Component {
         <div className="sidebar__inner">
           <div className="sidebar__author">{authorBlock}</div>
           <div>
+            <Menu data={menu} />
             <Links data={author} />
             <p className="sidebar__copyright">{copyright}</p>
           </div>

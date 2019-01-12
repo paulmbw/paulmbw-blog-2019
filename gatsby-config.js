@@ -10,6 +10,14 @@ module.exports = {
     copyright: '© All rights reserved.',
     disqusShortname: 'http://paulmbw.me.uk',
     menu: [
+      {
+        label: 'Articles',
+        path: '/',
+      },
+      {
+        label: 'About me',
+        path: '/about/',
+      },
     ],
     author: {
       name: 'Paul Waweru',
