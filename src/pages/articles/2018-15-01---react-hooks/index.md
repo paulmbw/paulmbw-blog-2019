@@ -83,7 +83,11 @@ In other other words, I've defined a functional component, but I would now like 
 `useState` is an example of a Hook, which is a method that returns a pair; the current state, and a function that will later update the state:
 
 ```javascript
-const [currentState, functionToUpdateState] = useState([//initial state]);
+/*
+initalState can be any value, but for the purpose of this post I will use an array
+*/
+const initalState = [];
+const [currentState, functionToUpdateState] = useState(initalState);
 ```
 Here is a more concrete example relating to our Library:
 
