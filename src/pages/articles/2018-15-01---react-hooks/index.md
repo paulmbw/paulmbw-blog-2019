@@ -86,7 +86,7 @@ In other other words, I've defined a functional component, but I would now like 
 /*
 initalState can be any value, but for the purpose of this post I will use an array
 */
-const initalState = [];
+let initalState = [];
 const [currentState, functionToUpdateState] = useState(initalState);
 ```
 Here is a more concrete example relating to our Library:
