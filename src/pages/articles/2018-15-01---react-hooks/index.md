@@ -72,7 +72,7 @@ So, now that we understand the difference between the two types of components, h
 
 **Okay...but what on earth is a Hook?!**
 
-Thought you'd ask that question! The React docs do a pretty good job explaining what a Hook is:
+Thought you'd ask that question! The [React docs](https://reactjs.org/docs/hooks-overview.html#but-what-is-a-hook) do a pretty good job explaining what a Hook is:
 
  > Hooks are functions that let you “hook into” React state and lifecycle features from function components. Hooks don’t work inside classes — they let you use React without classes. 
 
