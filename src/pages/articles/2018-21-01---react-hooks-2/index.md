@@ -142,4 +142,4 @@ The `componentWillUnmount` lifecycle method can also be performed with `useEffec
 
 **Conclusion**
 
-That was pretty long, wasn't it?! Hopefully I did a decent job at demystifying `useEffect`and it's use cases. In all honesty, all these updates from React did take some time to understand, but  breaking things down and using simple examples helped with writing up today's post. Hope you enjoyed reading, and stay tuned for more posts coming soon! 🕵🏾‍♂️
+That was pretty long, wasn't it?! Hopefully I did a decent job at demystifying `useEffect`and its use cases. In all honesty, all these updates from React did take some time to understand, but  breaking things down and using simple examples helped with writing up today's post. Hope you enjoyed reading, and stay tuned for more posts coming soon! 🕵🏾‍♂️
