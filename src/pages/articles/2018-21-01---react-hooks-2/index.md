@@ -14,7 +14,7 @@ description: "As promised, today we take a look into useEffect, another hook use
 
 As with any other post, today's goal is to clearly define `useEffect`, identify its use case and provide a basic example of its use. **Warning:** this will be a lengthy post with a few more detailed code examples, so please bear with! Don't hesitate to grab a cup of tea, or a glass of whiskey, whatever tickles your fancy.
 
-Last week, we touched on the topic of [React Hooks](http://localhost:8000/posts/react-hooks) where I introduced this new feature in React, some motivations behind the idea and a simple example of their use. Today, I hope to dig a little further into this, outlining another hook called `useEffect` which essentially allows us to expand on our stateful functional components through performing _side effects_ (these usually happen in lifecycle methods such as  `componentDidMount`), all whilst avoiding having to write a _class_.
+Last week, we touched on the topic of [React Hooks](https://paulmbw.me.uk/posts/react-hooks) where I introduced this new feature in React, some motivations behind the idea and a simple example of their use. Today, I hope to dig a little further into this, outlining another hook called `useEffect` which essentially allows us to expand on our stateful functional components through performing _side effects_ (these usually happen in lifecycle methods such as  `componentDidMount`), all whilst avoiding having to write a _class_.
 
 **Recap**
 
