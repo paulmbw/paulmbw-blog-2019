@@ -60,5 +60,7 @@ So, have I convinced you enough to take the plunge too? If so, here's a compiled
 
 Lisbon has challenged me quite a lot, and I'd like to think I gave it a good fight. I've learned to trust and rely on myself a lot more, to organise myself as best possible, and most importantly, to grow in confidence and strength in, you guessed it, myself. I do hope this post does help you in whatever challenge you're about to face, because everything begins with you!
 
+If you do have any other questions about my experience, please don't hesitate to drop me an [email](mailto:paul.waweru58@gmail.com) . See ya!
+
 
 ![](./me.jpg "Ponte 25 de Abril")
