@@ -16,6 +16,6 @@ This blog is compirsed of my opinions and my opinions alone. I'll post stuff abo
 
 You can easily contact me via my [LinkedIn](https://www.linkedin.com/in/paul-waweru-35652594/) and view my projects on [Github](https://github.com/paulmbw).
 
-If you're in the tech field looking for your next role (either software engeering, QA etc.), drop me a message on LinkedIn or feel free to [email](mailto:paul.waweru58@gmail.com) me.
+If you're in the tech field looking for your next role (either software engineer, QA etc.), drop me a message on LinkedIn or feel free to [email](mailto:paul.waweru58@gmail.com) me. Bulb are curretly in search for those roles in particualar, so don't hesitate to contact me!
 
 That's all, enjoy! 👻
