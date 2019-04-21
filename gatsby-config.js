@@ -11,12 +11,16 @@ module.exports = {
     disqusShortname: 'http://paulmbw.me.uk',
     menu: [
       {
+        label: 'About me',
+        path: '/about/',
+      },
+      {
         label: 'Articles',
         path: '/',
       },
       {
-        label: 'About me',
-        path: '/about/',
+        label: 'Archive',
+        path: '/categories/',
       },
     ],
     author: {
@@ -118,7 +122,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-google-fonts',
       options: {
-        fonts: ['roboto:400,400i,500,700'],
+        fonts: ['Comfortaa:400,500,700'],
       },
     },
     {
