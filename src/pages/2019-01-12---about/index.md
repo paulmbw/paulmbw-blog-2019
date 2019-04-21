@@ -8,8 +8,14 @@ path: "/about"
 
 Hi there!
 
-Welcome to my blog. My name is Paul, I am 23 years old living and working in London. I'm currenty a software engineer at [Medidata](https://www.mdsol.com/en) (btw, we are hiring! Contact me via my [email](mailto:paul.waweru58@gmail.com)). For more information about what I do exactly, have a look at my [CV](./paulwawerucv.pdf).
+I'm Paul, I'm 23 and I describe myself as a curious, energetic, complex being navigating through this thing called life. I currently reside in London working as a software engineer for [Bulb](https://www.bulb.co.uk). For more information about what I do exactly, have a look at my [CV](./paulwawerucv.pdf).
 
-I hope to use this blog as a platform for sharing my thoughts, opinions and experiences on both tech related stuff and other topics in general.
+That is a photo of me in Pula, Croatia (a wonderful city btw, you should visit!).
 
-You can easily contact me via my [Linkedin](https://www.linkedin.com/in/paul-waweru-35652594/) and view my projects on [Github](https://github.com/paulmbw).
+This blog is compirsed of my opinions and my opinions alone. I'll post stuff about tech, travelling, or random things that tickle my fancy. Feel free to read and share!
+
+You can easily contact me via my [LinkedIn](https://www.linkedin.com/in/paul-waweru-35652594/) and view my projects on [Github](https://github.com/paulmbw).
+
+If you're in the tech field looking for your next role (either software engeering, QA etc.), drop me a message on LinkedIn or feel free to [email](mailto:paul.waweru58@gmail.com) me.
+
+That's all, enjoy! 👻
