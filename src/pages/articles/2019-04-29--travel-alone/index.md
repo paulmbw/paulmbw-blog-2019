@@ -1,6 +1,6 @@
 ---
 title: On travelling to Lisbon, alone! 🇵🇹
-date: "2019-04-29T23:46:37.121Z"
+date: "2019-03-29T23:46:37.121Z"
 layout: post
 draft: false
 path: "/posts/travel-alone/"
