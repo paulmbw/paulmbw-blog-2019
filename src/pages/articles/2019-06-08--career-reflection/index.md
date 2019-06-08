@@ -1,6 +1,6 @@
 ---
 title: A quick and simple guide to reflecting on your software engineering career 💻 
-date: "2019-06-08T23:46:37.121Z"
+date: "2019-06-08T00:00:00.121Z"
 layout: post
 draft: false
 path: "/posts/career-refelection/"
