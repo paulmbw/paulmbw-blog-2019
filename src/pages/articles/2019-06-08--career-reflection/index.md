@@ -3,7 +3,7 @@ title: A quick and simple guide to reflecting on your software engineering caree
 date: "2019-06-08T00:00:00.121Z"
 layout: post
 draft: false
-path: "/posts/career-refelection/"
+path: "/posts/career-refelection"
 category: "Career"
 tags:
   - "career"
