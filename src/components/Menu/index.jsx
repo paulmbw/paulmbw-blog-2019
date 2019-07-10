@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import './style.scss'
+import bulb from './bulb.jpg'
 
 class Menu extends React.Component {
   render() {
@@ -19,6 +20,11 @@ class Menu extends React.Component {
             </Link>
           </li>
         ))}
+        <div>Toggle for night/dark mode</div>
+        <div className="menu__bulb_main">
+          <h5>Swtich to Bulb Energy! Use this <a href="https://www.bulb.me/johnm6944?utm_campaign=account-referral-share&utm_medium=copy-link&utm_source=copy-button">link</a> to get a quote and £75 free credit!</h5>
+          <img className="menu__bulb" src={bulb} alt="hello" />
+        </div>
       </ul>
     )
 
