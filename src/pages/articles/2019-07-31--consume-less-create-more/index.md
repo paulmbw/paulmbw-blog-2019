@@ -10,7 +10,7 @@ tags:
 
 description: "In a world with endless resources, we have a responsibility to create more. What are you creating?"
 ---
-_**4 mins read**_
+_**4 min read**_
 
 This is my response to a post titled _Consume less, create more_, which delves into the issue of technology making us consumers instead of creators. You can read it [here](https://tjcx.me/posts/consumption-distraction/).
 
