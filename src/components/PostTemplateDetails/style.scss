@@ -28,7 +28,6 @@
                 @include padding(1, 0);
                 & p {
                     max-width: $layout-post-single-width;
-                    
                     font-size: $typographic-base-font-size * 1.6817;
                     margin-top: 0;
                     @include margin-bottom(1);
