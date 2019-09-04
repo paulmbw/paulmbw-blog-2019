@@ -11,7 +11,7 @@ description: "Travelling with friends and family is great, but what's it like go
 ---
 ![](./me3.jpg "Park and National Palace of Pena")
 
-**Firstly, why?**
+## Firstly, why?
 
 You're probably already thinking, why on earth would you go on holiday alone?! Don't you have any family or friends to take with you?! 😂
 
