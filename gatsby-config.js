@@ -122,7 +122,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-google-fonts',
       options: {
-        fonts: ['Comfortaa:400,500,700'],
+        fonts: ['Comfortaa:400,500,700', 'Linden Hill:400,400i'],
       },
     },
     {
