@@ -3,7 +3,7 @@ const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
+    siteUrl: 'http://paulmbw.me.uk',
     title: 'Paul Waweru',
     subtitle:
       'Software Engineer. I love to travel, eat and read (sometimes all at once). North London is Red. Navigating through this thing called life.',
@@ -44,7 +44,7 @@ module.exports = {
           {
             site {
               siteMetadata {
-                site_url: url
+                site_url: siteUrl
                 title
                 description: subtitle
               }
@@ -132,7 +132,7 @@ module.exports = {
             {
               site {
                 siteMetadata {
-                  url
+                  siteUrl
                 }
               }
               allSitePage(
@@ -151,7 +151,7 @@ module.exports = {
         serialize: ({ site, allSitePage }) =>
           allSitePage.edges.map(edge => {
             return {
-              url: site.siteMetadata.url + edge.node.path,
+              url: site.siteMetadata.siteUrl + edge.node.path,
               changefreq: 'daily',
               priority: 0.7,
             }
