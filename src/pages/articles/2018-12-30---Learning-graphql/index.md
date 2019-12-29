@@ -105,7 +105,7 @@ This is all one HTTP request that can be implemented in a server, as opposed to 
 }
 ```
 
-**Nested Queries**
+##Nested Queries
 
 The wonderful thing about declaratively specifying what information we want is how easy it is to extend our quires and retrieve more data. Our initial query requested information about a book, however, what if we wanted information about the author in addition? Again, we can adjust our query to achieve this:
 
