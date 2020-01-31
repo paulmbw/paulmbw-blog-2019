@@ -11,11 +11,14 @@ tags:
   - "business"
   - "startup"
  
-description: "Startup ideas: let me know what you think"
+description: "As YC says, build something people want"
 ---
 
-I have a startup idea (just like everyone else on this planet). This startup idea is related to general fitness and exercising. However, this post is not about me selling you an idea. I'm on a quest to hear your experience with working out, whether you're part of a gym, you goi for runs or jumping jacks in your back garden. I would love to hear your biggest pain points when exercising, and any thoughts you may have that could improve your experience.
+To act on Y Combinator's advice on [making something people want](https://blog.ycombinator.com/ycs-essential-startup-advice/), a [friend](https://www.linkedin.com/in/kalada-anga/) and I are working on a startup in the health and wellness space, specifically regarding exercising. We're on a quest to to identify people's experience when it comes to working out, whether you're part of a gym or jumping jacks in your back garden is your thing. We would love to hear your biggest pain points when it comes to exercising, and any ideas you may have that would improve your experience.
 
-Asking people to complete surveys is not easy! Espically when you are an early stage startup when £0. We can't promise anything in return, but we will take on board your submissions to build a product you will love.
+Asking people to complete surveys is not easy! Espically when you are an early stage startup with £0. We can't promise anything in return, but we will take on board your submissions to build a product you will both want and love. We will also keep in touch to share our progress with you so you will be a part of our journey.
 
-A link to the Google Form can be found [here](https://docs.google.com/forms/d/19aarXVhC5roL903Eaz6uK8g8seldOjbGycGuLQ_KM1Y/edit).
+A link our survery can be found [here](https://forms.gle/cxqbVyWowDwfJXRUA).
+
+Thank you!
+
