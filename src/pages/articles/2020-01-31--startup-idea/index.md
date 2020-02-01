@@ -11,7 +11,7 @@ tags:
   - "business"
   - "startup"
  
-description: "As YC says, build something people want"
+description: "Help us make something you want!"
 ---
 
 To act on Y Combinator's advice on [making something people want](https://blog.ycombinator.com/ycs-essential-startup-advice/), a [friend](https://www.linkedin.com/in/kalada-anga/) and I are working on a startup in the health and wellness space, specifically regarding exercising. We're on a quest to to identify people's experience when it comes to working out, whether you're part of a gym or jumping jacks in your back garden is your thing. We would love to hear your biggest pain points when it comes to exercising, and any ideas you may have that would improve your experience.
