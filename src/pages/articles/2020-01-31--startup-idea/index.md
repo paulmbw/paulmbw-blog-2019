@@ -9,7 +9,6 @@ tags:
   - "startup"
   - "ideas"
   - "business"
-  - "startup"
  
 description: "Help us make something you want!"
 ---
