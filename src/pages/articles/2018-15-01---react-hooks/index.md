@@ -67,7 +67,6 @@ This component is limited to rendering some html only, with `props` passed as a 
 So, now that we understand the difference between the two types of components, how does that help with defining Hooks? When building applications in React, you may run into situations where you need to construct a class and identify how to manage state (like the `Library` class we defined earlier). The main goal of Hooks is to allow you to reap the benefits that come with writing functional components, whilst being able to maintain state:
 
 - **reduced boilerplate**: quite often,  React components start out as simple and overtime become more complex when state management is involved and side effects are performed. The introduction of component life cycle methods also add to this complexity, as each method handles logic differently. Ultimately, code becomes harder to maintain and reuse. 
-- **learning curve that comes with classes**: for me, learning how the `this` keyword has been quite a challenge when I first got into React, and this may be an even bigger learning curve for those starting out. Functions are far more easier to understand in my opinion.
 - **we can write more functional code**: a key advantage of using Hooks is the ability to write functional code (no side effects, code is less verbose) whilst maintaining the use of classes. Hooks allow us to use state inside of functional components!
 
 **Okay...but what on earth is a Hook?!**
