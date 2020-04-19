@@ -7,7 +7,7 @@ module.exports = {
     title: 'Paul Waweru',
     subtitle:
       'Software Engineer. I love to travel, eat and read (sometimes all at once). North London is Red. Navigating through this thing called life.',
-    copyright: '© Paul Waweru 2019.',
+    copyright: '© Paul Waweru 2020.',
     disqusShortname: 'http://paulmbw.me.uk',
     menu: [
       {

@@ -132,10 +132,10 @@
             }
         }
     }
-    // .gatsby-resp-image-link {
-    //     width: 500px;
-    //     height: 680px;
-    // }
+    .gatsby-resp-image-link {
+        width: 70%;
+        height: 50%;
+    }
 }
 
 @include breakpoint-md {
