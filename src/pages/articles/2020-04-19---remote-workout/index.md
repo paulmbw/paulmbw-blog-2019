@@ -1,5 +1,5 @@
 ---
-title: I worked out with a friend using Skype and YouTube. Here is what we learned
+title: I worked out with a friend using Skype and YouTube. Here is what we learned 📺 🏋🏽‍♂️
 date: "2020-04-19T00:00:00.121Z"
 layout: post
 draft: false
@@ -10,7 +10,7 @@ tags:
   - "exercise"
   - "quarantine"
  
-description: ""
+description: "A brief look into exercising when the whole world is in lockdown."
 ---
 
 You've probably heard what's going outside, and you've probably been impacted in one way or another. For myself, it's meant working remotely, not being able to go to church for prayers, but also notably not being able to exercise outside as I used to. Typically, this would consist of going to the gym or playing football with friends, which is no longer possible due to social distancing rules in place. It's a strange time for everyone as we've learned to adapt and find alternatives to our usual lifestyle.
@@ -31,7 +31,7 @@ We used Skype as a means of connecting with each other and had a seperate window
 
 What I most enjoyed about this experience was simply sharing it with someone else. I could have easily followed the workout tutorial on my own, but I knew it wouldn't have been the same. I would have lacked the voice to push me to do the last burpee, and to motivate me to keep going. Exercising really does make a difference when you're sharing with someone else.
 
-Kal also had similar thoughts. He expressed how he'd usually become either tired, bored or unmotivated when doing YouTube workouts alone, but having someone to share the workout with really made a difference. To quote,
+Kal also had similar thoughts. He expressed how he'd usually become either tired, bored or unmotivated when doing YouTube workouts alone, but having someone to share the workout with really made a difference. To quote Kal:
 
 >  Knowing he  was there motivated me to carry on and generally made me happy to be there. I was excited to do the workout because it felt less like a chore and more like something fun to do with my mate.
 
@@ -39,7 +39,7 @@ Kal also had similar thoughts. He expressed how he'd usually become either tired
 
 We had to jump over a few technical hurdles before getting started with the workout. I had initially got set up using an iPad and multitasking with Skype and YouTube. I later realised while being on the Skype call, the camera shuts off once you navigate to a different app, which I thought was quite disappointing. As an alternative, I only used the tablet for the Skype call and used my laptop to follow the workout tutorial. 
 
-Moreover, we also had to ensure we started the video at the same time to be in sync. Kal also had the video opened and we had to essentially click play simultaneously. This worked somewhat well, but there were times where I had noticed I was a few seconds behind. To quote Kal once more,
+Moreover, we also had to ensure we started the video at the same time to be in sync. Kal also had the video opened and we had to essentially click play simultaneously. This worked somewhat well, but there were times where I had noticed I was a few seconds behind. To quote Kal once more:
 
 > While it was mostly a fun experience, it took us a while to get set up. I had issues keeping camera on, and because it wasn't a guided workout video I had to constantly look up at the screen to follow the workout. Otherwise it was a lot of fun and I'd definitely do it again.
 
