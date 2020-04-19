@@ -51,9 +51,11 @@ Furthermore, a big part of working out includes seeing how much you have improve
 
 Kal also suggested a couple of ideas the could have improved this experience:
 
->1. It would be great if we had a way to track when the exercise move was about to change. This could be done by the instructor giving us a heads up on the next movement in the exercise. Another way would be if there was some type of countdown time before we switched positions.
->2. It would also be cool if we could choose our own background music to make the experience more upbeat.
->3. It would have also been better if the routine had short breaks scheduled into it to give us time to rest and have a quick chat during the transitions.
+>It would be great if we had a way to track when the exercise move was about to change. This could be done by the instructor giving us a heads up on the next movement in the exercise. Another way would be if there was some type of countdown time before we switched positions.
+>
+>It would also be cool if we could choose our own background music to make the experience more upbeat.  
+>
+>It would have also been better if the routine had short breaks scheduled into it to give us time to rest and have a quick chat during the transitions.
 
 ## Conclusion 
 
