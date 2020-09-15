@@ -9,7 +9,7 @@ path: "/about"
 
 Hi there!
 
-I'm Paul, I'm 24 and I describe myself as a curious, energetic, complex being navigating through this thing called life. I currently reside in London working as a software engineer for [Bulb](https://www.bulb.co.uk). For more information about what I do exactly, have a look at my [CV](./paulwawerucv2.pdf).
+I'm Paul, I'm 25 and I describe myself as a curious, energetic, complex being navigating through this thing called life. I currently reside in London working as a software engineer for [Bulb](https://www.bulb.co.uk). For more information about what I do exactly, have a look at my [CV](./paulwawerucv2.pdf).
 
 I love to travel, and I was recently in [Callela](https://www.google.com/maps/place/Calella,+Barcelona,+Spain/@41.6163727,2.6356562,14z/data=!3m1!4b1!4m5!3m4!1s0x12bb39b04518c207:0x56ef369d70456b28!8m2!3d41.6134346!4d2.6535552), a seaside city on th the Costa del Maresme, in Spain. That is a photo of me by the sea!
 
