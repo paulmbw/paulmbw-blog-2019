@@ -4,7 +4,7 @@ const pxtorem = require('postcss-pxtorem')
 module.exports = {
   siteMetadata: {
     siteUrl: 'http://paulmbw.me.uk',
-    title: 'Paul Waweru',
+    title: 'wawpa',
     subtitle:
       'Software Engineer. I love to travel, eat and read (sometimes all at once). North London is Red. Navigating through this thing called life.',
     copyright: '© Paul Waweru 2020.',
@@ -24,7 +24,7 @@ module.exports = {
       },
     ],
     author: {
-      name: 'Paul Waweru',
+      name: 'wawpa',
       email: 'paul.waweru58@gmail.com',
       github: 'paulmbw',
     },
